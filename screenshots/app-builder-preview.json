@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Lux Machina",
+      "hasCanvas": false,
+      "bodyTextLen": 382,
+      "bodyTextHash": "f88cb762a4bf12990c0d97f7d7d93e5a6f10f8be7f3d79a9a439194c683545cc",
+      "bodyTextPrefix": "Skip to content LM-01 LUX MACHINA HOME SYSTEM LAB MODULE LAB MAR",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Lux Machina",
+      "hasCanvas": false,
+      "bodyTextLen": 298,
+      "bodyTextHash": "78ddfc7dc25a0701fafeba7cef57194887e1cf2c734f1ed33e8d24ef242e3d39",
+      "bodyTextPrefix": "Skip to content LM-01 LUX MACHINA ACQUIRING SIGNAL Restoring the",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

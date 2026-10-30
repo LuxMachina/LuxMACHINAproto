@@ -1,0 +1,20 @@
+node_modules
+dist
+.output
+.nitro
+.vercel
+.tanstack
+.grok
+artifacts
+coverage
+*.log
+.DS_Store
+
+# Secrets and local env. Never commit these.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+secrets.json
